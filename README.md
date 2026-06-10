@@ -52,6 +52,7 @@ Inspired by [@agamm](https://github.com/agamm/awesome-developer-first) and [@mmc
 * [learn-from-open-source](https://github.com/elie222/learn-from-open-source) ![open-source](https://img.shields.io/badge/open--source-black) 
 * [openapi-tools](https://github.com/apisyouwonthate/openapi.tools)
 * [usage-based-pricing](https://github.com/appsmithorg/usage-based-pricing)
+* [seo-automation-engine](https://github.com/abusufyan-netizen/seo-automation-engine)
 
 ### collections
 
